@@ -50,6 +50,8 @@
 
     <modules>
         <module>cloudalibaba-nacos-9001</module>
+        <module>cloudalibaba-nacos-9002</module>
+        <module>cloudalibaba-consumer-nacos-8003</module>
     </modules>
 
 </project>
